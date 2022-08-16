@@ -2,7 +2,7 @@
 
 Pytorch implementation of our method for cross-domain semantic segmentation of the high-resolution remote sensing imagery. 
 
-Contact: Jingru Zhu (zhujingru1012@163.com)
+Contact: Jingru Zhu (zhujingru@csu.edu.cn)
 
 ## Paper
 [Unsupervised Domain Adaptation for Semantic Segmentation of High-Resolution Remote Sensing Imagery Driven by Category-Certainty Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667523) <br />
