@@ -31,8 +31,8 @@ Please cite our paper if you find it useful for your research.
 
 * Clone this repo
 ```
-git clone https://github.com/wasidennis/AdaptSegNet
-cd AdaptSegNet
+git clone https://github.com/RS-CSU/UDAS-master
+cd UDAS-master
 ```
 ## Dataset
 * Download the [Potsdam Dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx/) as the source domain, and put it in the `dataset/Potsdam` folder
